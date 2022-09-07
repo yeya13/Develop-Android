@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Claudia Jaramillo</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="longText">Hi, my name is Claudia
+        <br></br>
+        A country rich in history, tradition and culture, Mexico is made up of 31 states and one federal district.
+        It is the third largest country in Latin America and has one of the largest populations—more than 100
+        million—making it the home of more Spanish speakers than any other nation in the world.
+        Despite the political and social changes that have occurred over the centuries, evidence of past cultures and
+        events are apparent everywhere in Mexico.
+        <br></br>
+        By 300 B.C., villages based on agriculture and hunting had sprung up throughout the southern half of Mexico. Monte Albán, home to the Zapotec people, had an estimated 10,000 inhabitants. Between 100 B.C. and 700 A.D., Teotihuacán, the largest pre-Columbian city in the Americas, was constructed near present-day Mexico City. The civilization that built it is also called Teotihuacán, and the influence of this culture can be seen throughout the Veracruz and Mayan regions. At its zenith, with a population estimated at 200,000, the civilization is thought to have controlled a large portion of southern Mexico. The empire of Teotihuacán was overthrown in the 7th century, but the spectacular city survives today.
+        </string>
+    <string name="bio">Hi, my name is Aleks.
+\n\nI love fish.
+\n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+\nFun fact is that I have several aquariums and also a river.
+\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
+\nAnd sometimes I even go fishing.
+\nAnd even less sometimes, I actually catch something.
+\n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
+\n\nI\'ll be happy to teach you how to make your own aquarium.
+\nYou should ask someone else about fishing, though.\n\n</string>
+    <string name="what_is_your_nicknme">What is your nicknme?</string>
+    <string name="done">Done</string>
+</resources>
