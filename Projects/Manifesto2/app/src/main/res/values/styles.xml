@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="TextStyle3">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">@font/modern_regular</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">98.6sp</item>
+        <item name="android:letterSpacing" tools:targetApi="lollipop">0.08</item>
+        <item name="android:textColor">#eea86c</item>
+    </style>
+
+    <style name="TextStyle">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">@font/modern_regular</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">39.5sp</item>
+        <item name="android:letterSpacing" tools:targetApi="lollipop">0.08</item>
+        <item name="android:textColor">#eea86c</item>
+    </style>
+    <style name="TextStyle4">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">@font/montserrat_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:letterSpacing" tools:targetApi="lollipop">0.014</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="TextStyle2">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">11.8sp</item>
+        <item name="android:letterSpacing" tools:targetApi="lollipop">0.08</item>
+        <item name="android:lineSpacingExtra">-1.3sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+</resources>
