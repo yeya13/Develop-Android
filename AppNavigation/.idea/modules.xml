@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AppNavigation.iml" filepath="$PROJECT_DIR$/.idea/AppNavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trivia/app/build/tmp/build.iml" filepath="$PROJECT_DIR$/Trivia/app/build/tmp/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trivia/app/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/Trivia/app/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trivia/app/build/generated/source/dataBinding/dataBinding.iml" filepath="$PROJECT_DIR$/Trivia/app/build/generated/source/dataBinding/dataBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trivia/app/build/generated/data_binding_base_class_source_out/data_binding_base_class_source_out.iml" filepath="$PROJECT_DIR$/Trivia/app/build/generated/data_binding_base_class_source_out/data_binding_base_class_source_out.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trivia/app/build/generated/source/kapt/kapt.iml" filepath="$PROJECT_DIR$/Trivia/app/build/generated/source/kapt/kapt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trivia/app/build/generated/source/navigation-args/navigation-args.iml" filepath="$PROJECT_DIR$/Trivia/app/build/generated/source/navigation-args/navigation-args.iml" />
+    </modules>
+  </component>
+</project>
